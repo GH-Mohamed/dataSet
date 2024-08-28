@@ -1,0 +1,5 @@
+1 la commande pipe sert à la communication entre processus.
+3 la commande tee utile pour capturer les informations qui cerculent dans un pipe.
+2 la commande recopie son entrée standard sur sa sortie stan et sur un fichier.
+4 la commande tee peut être utilisé pour sauvegarder dans un fichier les traces des information qui cerculent sur sa sortie standard.
+1 quest ce quun pipe et que fait la commande tee. ~~
